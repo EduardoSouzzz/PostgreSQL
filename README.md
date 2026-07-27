@@ -23,6 +23,7 @@ Repositório criado para armazenar meus estudos de PostgreSQL, contendo scripts,
   * `MAX`
 * Agrupamentos com `GROUP BY`
 * Filtros de grupos com `HAVING`
+* Visualização de tabelas com `VIEW`
 * Chaves Primárias (PK)
 * Chaves Estrangeiras (FK)
 * Relacionamentos entre tabelas
